@@ -1,5 +1,5 @@
 # defcrypt
-string encrypt/decrypt tool for Defold
+string encryptor/decryptor using xor operation for Defold games.
 
 # usage
 The first arg is the string you want to en/decrypt.
