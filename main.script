@@ -1,0 +1,6 @@
+local crypt = require "main.crypt"
+
+function init(self)
+    print(crypt("www.sina.com","123"))
+    print(crypt("FEDAZ_SR]^","123"))
+end
