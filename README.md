@@ -2,6 +2,8 @@
 string encrypt/decrypt tool for Defold
 
 # usage
+The first arg is the string you want to en/decrypt.
+The second arg is the key.
 
 ```
 local crypt = require "main.crypt"
