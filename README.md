@@ -3,6 +3,7 @@ string encrypt/decrypt tool for Defold
 
 # usage
 
+```
 local crypt = require "main.crypt"
 
 function init(self)
